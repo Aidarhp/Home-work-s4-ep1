@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    max-width: 1060px;
+    margin: 0 auto;
+}
+
+.Main_block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
